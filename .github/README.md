@@ -1,4 +1,4 @@
-![CI](https://github.com/litmuschaos/spinnaker-preconfigured-job-plugin/workflows/CI/badge.svg)
+![CI](https://github.com/mayadata-io/spinnaker-preconfigured-job-plugin/workflows/CI/badge.svg)
 ![Latest Kork](https://github.com/spinnaker-plugin-examples/preconfiguredJob/workflows/Latest%20Kork/badge.svg?branch=master)
 ![Latest Orca](https://github.com/spinnaker-plugin-examples/preconfiguredJob/workflows/Latest%20Orca/badge.svg?branch=master)
 
